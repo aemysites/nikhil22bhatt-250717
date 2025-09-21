@@ -1,0 +1,628 @@
+{
+  "originUrl": "https://hdfcsky.com",
+  "aborted": false,
+  "lastCrawled": "https://hdfcsky.com/",
+  "urls": [
+    {
+      "url": "https://hdfcsky.com/sky-learn/commodity/what-is-ncdex",
+      "source": "SITEMAPS",
+      "targetPath": "/sky-learn/commodity/what-is-ncdex",
+      "id": "9e11a4c495d746ea2656b10e7e5d159d136cef09"
+    },
+    {
+      "url": "https://hdfcsky.com/sky-learn/currency-trading/is-forex-trading-legal-in-india",
+      "source": "SITEMAPS",
+      "targetPath": "/sky-learn/currency-trading/is-forex-trading-legal-in-india",
+      "id": "198452b835b362aefbebdd0cda5d91401af8126c"
+    },
+    {
+      "url": "https://hdfcsky.com/sky-learn/demat-account/how-to-find-demat-account-number",
+      "source": "SITEMAPS",
+      "targetPath": "/sky-learn/demat-account/how-to-find-demat-account-number",
+      "id": "7734b9dfb1f4d1ad810cfad1b530a93a906cbec3"
+    },
+    {
+      "url": "https://hdfcsky.com/sky-learn/demat-account/how-to-freeze-and-unfreeze-demat-account",
+      "source": "SITEMAPS",
+      "targetPath": "/sky-learn/demat-account/how-to-freeze-and-unfreeze-demat-account",
+      "id": "17d4e04ca46a08253acb8ce510779aa02bd7aeb6"
+    },
+    {
+      "url": "https://hdfcsky.com/sky-learn/demat-account/what-is-dp-id",
+      "source": "SITEMAPS",
+      "targetPath": "/sky-learn/demat-account/what-is-dp-id",
+      "id": "2c98c0f737fa431dd6d3848016417fb2125d0807"
+    },
+    {
+      "url": "https://hdfcsky.com/sky-learn/demat-account/what-is-repatriable-demat-account",
+      "source": "SITEMAPS",
+      "targetPath": "/sky-learn/demat-account/what-is-repatriable-demat-account",
+      "id": "56c658390a18ef8206ea4848c170a21845905c73"
+    },
+    {
+      "url": "https://hdfcsky.com/sky-learn/derivatives/derivatives-trading-strategies",
+      "source": "SITEMAPS",
+      "targetPath": "/sky-learn/derivatives/derivatives-trading-strategies",
+      "id": "39d13c29d11595277ad354326a0e281042fe095a"
+    },
+    {
+      "url": "https://hdfcsky.com/sky-learn/derivatives/exchange-traded-derivatives",
+      "source": "SITEMAPS",
+      "targetPath": "/sky-learn/derivatives/exchange-traded-derivatives",
+      "id": "c5faee8ce571f2c3314997daf7df356ff933b46e"
+    },
+    {
+      "url": "https://hdfcsky.com/sky-learn/derivatives/forward-market",
+      "source": "SITEMAPS",
+      "targetPath": "/sky-learn/derivatives/forward-market",
+      "id": "8ac8ba9ecc0f1128df3b6acdaac9338439a4a049"
+    },
+    {
+      "url": "https://hdfcsky.com/sky-learn/derivatives/how-to-trade-in-futures-and-options",
+      "source": "SITEMAPS",
+      "targetPath": "/sky-learn/derivatives/how-to-trade-in-futures-and-options",
+      "id": "c16fa773bb0943a4b04abbf9ff46ae519d62af6f"
+    },
+    {
+      "url": "https://hdfcsky.com/sky-learn/derivatives/put-option",
+      "source": "SITEMAPS",
+      "targetPath": "/sky-learn/derivatives/put-option",
+      "id": "c138bf11f427e714fa96f2f1d743499fd520f303"
+    },
+    {
+      "url": "https://hdfcsky.com/sky-learn/derivatives/put-writing-strategy",
+      "source": "SITEMAPS",
+      "targetPath": "/sky-learn/derivatives/put-writing-strategy",
+      "id": "774b8641f5f7bb3198b92e1b6dae59a7a20763bd"
+    },
+    {
+      "url": "https://hdfcsky.com/sky-learn/derivatives/swaps-derivatives",
+      "source": "SITEMAPS",
+      "targetPath": "/sky-learn/derivatives/swaps-derivatives",
+      "id": "5ea79acbe455e874d8359eff228cdcd5cfdbcc63"
+    },
+    {
+      "url": "https://hdfcsky.com/sky-learn/derivatives/types-of-derivatives",
+      "source": "SITEMAPS",
+      "targetPath": "/sky-learn/derivatives/types-of-derivatives",
+      "id": "2b905842635ce0c8393cfecb5cb61e5d5a1db331"
+    },
+    {
+      "url": "https://hdfcsky.com/sky-learn/derivatives/what-are-currency-derivatives",
+      "source": "SITEMAPS",
+      "targetPath": "/sky-learn/derivatives/what-are-currency-derivatives",
+      "id": "4424b4d842dfa2e0b8405fc67b4f8c1b777b649c"
+    },
+    {
+      "url": "https://hdfcsky.com/sky-learn/derivatives/what-are-equity-derivatives",
+      "source": "SITEMAPS",
+      "targetPath": "/sky-learn/derivatives/what-are-equity-derivatives",
+      "id": "6f0087970db04096afce12e279ed97886a52919c"
+    },
+    {
+      "url": "https://hdfcsky.com/sky-learn/derivatives/what-are-index-options",
+      "source": "SITEMAPS",
+      "targetPath": "/sky-learn/derivatives/what-are-index-options",
+      "id": "8a1ea4b5e009a3e6b3d8e8512fc3e9aebc464394"
+    },
+    {
+      "url": "https://hdfcsky.com/sky-learn/etf/benefits-of-ipo-etfs",
+      "source": "SITEMAPS",
+      "targetPath": "/sky-learn/etf/benefits-of-ipo-etfs",
+      "id": "104d03979e48ce578391065122d14f600cbbd74e"
+    },
+    {
+      "url": "https://hdfcsky.com/sky-learn/etf/etf-investing-for-women",
+      "source": "SITEMAPS",
+      "targetPath": "/sky-learn/etf/etf-investing-for-women",
+      "id": "0edb00804e9199b512f83d62950c05e5d093f869"
+    },
+    {
+      "url": "https://hdfcsky.com/sky-learn/etf/how-to-start-etf-sip-in-india",
+      "source": "SITEMAPS",
+      "targetPath": "/sky-learn/etf/how-to-start-etf-sip-in-india",
+      "id": "8687259b67dbbfac493ad384dba56f05c0892492"
+    },
+    {
+      "url": "https://hdfcsky.com/sky-learn/etf/smart-beta-funds",
+      "source": "SITEMAPS",
+      "targetPath": "/sky-learn/etf/smart-beta-funds",
+      "id": "fc744ee80d4d6b214d5e83ee15f59803960f8238"
+    },
+    {
+      "url": "https://hdfcsky.com/sky-learn/financial-planning/financial-advisor-vs-diy-investing",
+      "source": "SITEMAPS",
+      "targetPath": "/sky-learn/financial-planning/financial-advisor-vs-diy-investing",
+      "id": "ec6a7595898e6b7b8aff260814403209d240f3b6"
+    },
+    {
+      "url": "https://hdfcsky.com/sky-learn/financial-planning/golden-rules-of-accounting",
+      "source": "SITEMAPS",
+      "targetPath": "/sky-learn/financial-planning/golden-rules-of-accounting",
+      "id": "b9019190b7e6b8e6d1a2fd59f07ac2ef1abc1b61"
+    },
+    {
+      "url": "https://hdfcsky.com/sky-learn/financial-planning/guide-to-financial-planning-for-women-in-india",
+      "source": "SITEMAPS",
+      "targetPath": "/sky-learn/financial-planning/guide-to-financial-planning-for-women-in-india",
+      "id": "a391d5999fcb5fdbce4ebdf783ab784ee6f81e6c"
+    },
+    {
+      "url": "https://hdfcsky.com/sky-learn/financial-planning/how-to-save-tax-in-india",
+      "source": "SITEMAPS",
+      "targetPath": "/sky-learn/financial-planning/how-to-save-tax-in-india",
+      "id": "be98b372df25bfaddf31cffc0b8cb2a07fa41b7b"
+    },
+    {
+      "url": "https://hdfcsky.com/sky-learn/financial-planning/investing-at-22",
+      "source": "SITEMAPS",
+      "targetPath": "/sky-learn/financial-planning/investing-at-22",
+      "id": "c8e0b12ba8fd741527065382223b9c0e9d697ad6"
+    },
+    {
+      "url": "https://hdfcsky.com/sky-learn/financial-planning/modern-portfolio-theory",
+      "source": "SITEMAPS",
+      "targetPath": "/sky-learn/financial-planning/modern-portfolio-theory",
+      "id": "3e39a65f67d70b1a716b81115a0600630ff8ccf9"
+    },
+    {
+      "url": "https://hdfcsky.com/sky-learn/financial-planning/post-retirement-planning",
+      "source": "SITEMAPS",
+      "targetPath": "/sky-learn/financial-planning/post-retirement-planning",
+      "id": "7c883bb27e4c5bc2fec785fa5403c64c0ff2b67d"
+    },
+    {
+      "url": "https://hdfcsky.com/sky-learn/financial-planning/tax-residency-status-in-india",
+      "source": "SITEMAPS",
+      "targetPath": "/sky-learn/financial-planning/tax-residency-status-in-india",
+      "id": "300e6953047c4b602f563eee2e1dd585280458f9"
+    },
+    {
+      "url": "https://hdfcsky.com/sky-learn/financial-planning/what-is-diversification",
+      "source": "SITEMAPS",
+      "targetPath": "/sky-learn/financial-planning/what-is-diversification",
+      "id": "7b4badaf02af2e8dc4de6203792b64dbc59ee638"
+    },
+    {
+      "url": "https://hdfcsky.com/sky-learn/financial-planning/what-is-repo-rate",
+      "source": "SITEMAPS",
+      "targetPath": "/sky-learn/financial-planning/what-is-repo-rate",
+      "id": "9a8401fb10573cc31b494fd6b46ab022ed4fa30c"
+    },
+    {
+      "url": "https://hdfcsky.com/sky-learn/financial-planning/why-is-insurance-important-for-financial-protection",
+      "source": "SITEMAPS",
+      "targetPath": "/sky-learn/financial-planning/why-is-insurance-important-for-financial-protection",
+      "id": "a9e3448db3ee33cb0d5617bd4525614ac3479df0"
+    },
+    {
+      "url": "https://hdfcsky.com/sky-learn/financial-trading/proprietary-trading",
+      "source": "SITEMAPS",
+      "targetPath": "/sky-learn/financial-trading/proprietary-trading",
+      "id": "b1196338e02b999eaf8c5642da25d42388a892a0"
+    },
+    {
+      "url": "https://hdfcsky.com/sky-learn/intraday-trading/intraday-trading-gains-taxation",
+      "source": "SITEMAPS",
+      "targetPath": "/sky-learn/intraday-trading/intraday-trading-gains-taxation",
+      "id": "f6cfd6f906b942f0c511440d8d5323478f065ff8"
+    },
+    {
+      "url": "https://hdfcsky.com/sky-learn/ipo/greenshoe-options",
+      "source": "SITEMAPS",
+      "targetPath": "/sky-learn/ipo/greenshoe-options",
+      "id": "ae62eee14fbfd1dbc589c017c68ea5b3c9af5e8b"
+    },
+    {
+      "url": "https://hdfcsky.com/sky-learn/ipo/impact-of-market-conditions-on-ipo-success",
+      "source": "SITEMAPS",
+      "targetPath": "/sky-learn/ipo/impact-of-market-conditions-on-ipo-success",
+      "id": "5e44d3caf94d87a9c61c5af7745c6f76a8c0baa8"
+    },
+    {
+      "url": "https://hdfcsky.com/sky-learn/ipo/ipo-vs-secondary-offerings",
+      "source": "SITEMAPS",
+      "targetPath": "/sky-learn/ipo/ipo-vs-secondary-offerings",
+      "id": "57728df94707f3922f3514521fe21e6c8a71d0f7"
+    },
+    {
+      "url": "https://hdfcsky.com/sky-learn/ipo/long-term-ipo-investment-strategies",
+      "source": "SITEMAPS",
+      "targetPath": "/sky-learn/ipo/long-term-ipo-investment-strategies",
+      "id": "63031a827d39dba10e7ea84784cd2320ce919e77"
+    },
+    {
+      "url": "https://hdfcsky.com/sky-learn/ipo/risks-associated-with-investing-in-ipos",
+      "source": "SITEMAPS",
+      "targetPath": "/sky-learn/ipo/risks-associated-with-investing-in-ipos",
+      "id": "c9e7a1801b593335b6404eb43d7d9f743e0cad72"
+    },
+    {
+      "url": "https://hdfcsky.com/sky-learn/ipo/short-term-trading-strategies-for-ipos",
+      "source": "SITEMAPS",
+      "targetPath": "/sky-learn/ipo/short-term-trading-strategies-for-ipos",
+      "id": "0034ff1bed5f528c8d267abb7690b8bdce0a6c6a"
+    },
+    {
+      "url": "https://hdfcsky.com/sky-learn/ipo/what-is-cut-off-price-in-ipo",
+      "source": "SITEMAPS",
+      "targetPath": "/sky-learn/ipo/what-is-cut-off-price-in-ipo",
+      "id": "e4f532653bbccc2d5ebf3d86ebe55b32dac9e89b"
+    },
+    {
+      "url": "https://hdfcsky.com/sky-learn/loans/peer-to-peer-lending",
+      "source": "SITEMAPS",
+      "targetPath": "/sky-learn/loans/peer-to-peer-lending",
+      "id": "17e09a8609b81a6b4cc00b67a158333c6b8edff3"
+    },
+    {
+      "url": "https://hdfcsky.com/sky-learn/margin-trading/can-you-trade-etfs-on-margins",
+      "source": "SITEMAPS",
+      "targetPath": "/sky-learn/margin-trading/can-you-trade-etfs-on-margins",
+      "id": "a45143d0fe2f16ada8768748616d2de712d158ed"
+    },
+    {
+      "url": "https://hdfcsky.com/sky-learn/margin-trading/how-etfs-work-with-margin-trading-facility",
+      "source": "SITEMAPS",
+      "targetPath": "/sky-learn/margin-trading/how-etfs-work-with-margin-trading-facility",
+      "id": "f8c92444be7696618f9b423660e5e8f2c906d792"
+    },
+    {
+      "url": "https://hdfcsky.com/sky-learn/margin-trading/margin-trading-with-etfs",
+      "source": "SITEMAPS",
+      "targetPath": "/sky-learn/margin-trading/margin-trading-with-etfs",
+      "id": "3baee5a1a2266e58aa3fb2fd4db01eed70e3b2cb"
+    },
+    {
+      "url": "https://hdfcsky.com/sky-learn/margin-trading/what-is-margin-and-margin-shortfall",
+      "source": "SITEMAPS",
+      "targetPath": "/sky-learn/margin-trading/what-is-margin-and-margin-shortfall",
+      "id": "c88a3874f5b30e7240dcfc8154e2103358c28d77"
+    },
+    {
+      "url": "https://hdfcsky.com/sky-learn/margin-trading/what-is-margin-trading-facility-in-etf",
+      "source": "SITEMAPS",
+      "targetPath": "/sky-learn/margin-trading/what-is-margin-trading-facility-in-etf",
+      "id": "475ad93b97808a75579daf8f06c6692def36fc19"
+    },
+    {
+      "url": "https://hdfcsky.com/sky-learn/mutual-fund/amc-sip-vs-sip",
+      "source": "SITEMAPS",
+      "targetPath": "/sky-learn/mutual-fund/amc-sip-vs-sip",
+      "id": "0349ae5916f5598e5bab5a53505bf07077378bb7"
+    },
+    {
+      "url": "https://hdfcsky.com/sky-learn/mutual-fund/dividend-reinvestment-plans",
+      "source": "SITEMAPS",
+      "targetPath": "/sky-learn/mutual-fund/dividend-reinvestment-plans",
+      "id": "fdaa7f3046857857da100b7540e77a96801b1af6"
+    },
+    {
+      "url": "https://hdfcsky.com/sky-learn/mutual-fund/how-to-do-mutual-fund-kyc",
+      "source": "SITEMAPS",
+      "targetPath": "/sky-learn/mutual-fund/how-to-do-mutual-fund-kyc",
+      "id": "e2548c0fce95e68b6a62fe1502de86ad7f594ad7"
+    },
+    {
+      "url": "https://hdfcsky.com/sky-learn/mutual-fund/how-to-select-mutual-funds",
+      "source": "SITEMAPS",
+      "targetPath": "/sky-learn/mutual-fund/how-to-select-mutual-funds",
+      "id": "a69f6317dc7452229a3b076926014d4aa436027a"
+    },
+    {
+      "url": "https://hdfcsky.com/sky-learn/mutual-fund/idcw-vs-growth-option",
+      "source": "SITEMAPS",
+      "targetPath": "/sky-learn/mutual-fund/idcw-vs-growth-option",
+      "id": "1de163753a53f2529ef37db18c1fa0473f6195a4"
+    },
+    {
+      "url": "https://hdfcsky.com/sky-learn/mutual-fund/mutual-fund-overlap",
+      "source": "SITEMAPS",
+      "targetPath": "/sky-learn/mutual-fund/mutual-fund-overlap",
+      "id": "45202f9d1a2acfd6dea4a562f567258b7f19f8ec"
+    },
+    {
+      "url": "https://hdfcsky.com/sky-learn/mutual-fund/mutual-funds-cut-off-time",
+      "source": "SITEMAPS",
+      "targetPath": "/sky-learn/mutual-fund/mutual-funds-cut-off-time",
+      "id": "ae5e0abf406f95b00f0fd8855e65759a2acf1e41"
+    },
+    {
+      "url": "https://hdfcsky.com/sky-learn/mutual-fund/mutual-funds-vs-ppf",
+      "source": "SITEMAPS",
+      "targetPath": "/sky-learn/mutual-fund/mutual-funds-vs-ppf",
+      "id": "a3801c3788783755dbe56091fad43d2371bdad50"
+    },
+    {
+      "url": "https://hdfcsky.com/sky-learn/mutual-fund/nps-vs-ppf",
+      "source": "SITEMAPS",
+      "targetPath": "/sky-learn/mutual-fund/nps-vs-ppf",
+      "id": "810e294e621f37da834dc76cddefa7fe12fec9fb"
+    },
+    {
+      "url": "https://hdfcsky.com/sky-learn/mutual-fund/sip-vs-stp-vs-swp",
+      "source": "SITEMAPS",
+      "targetPath": "/sky-learn/mutual-fund/sip-vs-stp-vs-swp",
+      "id": "cf3659cfbe6c1ce3f6dd152b855983b8e8530139"
+    },
+    {
+      "url": "https://hdfcsky.com/sky-learn/mutual-fund/what-is-alpha-in-mutual-funds",
+      "source": "SITEMAPS",
+      "targetPath": "/sky-learn/mutual-fund/what-is-alpha-in-mutual-funds",
+      "id": "9d8ae7bb55c4166d9307bcd5d661dcd91da48d15"
+    },
+    {
+      "url": "https://hdfcsky.com/sky-learn/mutual-fund/what-is-fund-manager",
+      "source": "SITEMAPS",
+      "targetPath": "/sky-learn/mutual-fund/what-is-fund-manager",
+      "id": "95eeffbc86f2557c22b0544d5a920fd8e11a02b7"
+    },
+    {
+      "url": "https://hdfcsky.com/sky-learn/mutual-fund/what-is-short-term-fund",
+      "source": "SITEMAPS",
+      "targetPath": "/sky-learn/mutual-fund/what-is-short-term-fund",
+      "id": "84b11dc863ea6ff36c8590c0e793c0fac2db92ea"
+    },
+    {
+      "url": "https://hdfcsky.com/sky-learn/mutual-fund/what-is-specialised-investment-fund",
+      "source": "SITEMAPS",
+      "targetPath": "/sky-learn/mutual-fund/what-is-specialised-investment-fund",
+      "id": "d40ee8c55f3e0b9277e3498c221416b95c21afef"
+    },
+    {
+      "url": "https://hdfcsky.com/sky-learn/personal-finance/investing-in-your-30s",
+      "source": "SITEMAPS",
+      "targetPath": "/sky-learn/personal-finance/investing-in-your-30s",
+      "id": "0326500ab6d0ee567092e298506314937dd81ac2"
+    },
+    {
+      "url": "https://hdfcsky.com/sky-learn/personal-finance/investing-in-your-40s",
+      "source": "SITEMAPS",
+      "targetPath": "/sky-learn/personal-finance/investing-in-your-40s",
+      "id": "209753d94f5121be6703f4835a4b93b746bc269e"
+    },
+    {
+      "url": "https://hdfcsky.com/sky-learn/personal-finance/non-current-liabilities",
+      "source": "SITEMAPS",
+      "targetPath": "/sky-learn/personal-finance/non-current-liabilities",
+      "id": "077a5d907db8bc8efe8b9546b06404fd5c78eec5"
+    },
+    {
+      "url": "https://hdfcsky.com/sky-learn/personal-finance/personal-finance-how-to-transfer-pf-online",
+      "source": "SITEMAPS",
+      "targetPath": "/sky-learn/personal-finance/personal-finance-how-to-transfer-pf-online",
+      "id": "09836a88b5303437b2eb3b125d0a94855e2a0654"
+    },
+    {
+      "url": "https://hdfcsky.com/sky-learn/personal-finance/share-appreciation-rights",
+      "source": "SITEMAPS",
+      "targetPath": "/sky-learn/personal-finance/share-appreciation-rights",
+      "id": "583716b5561477846f43b45ad4ce4a3c9c34a79e"
+    },
+    {
+      "url": "https://hdfcsky.com/sky-learn/personal-finance/what-is-dividend-yield",
+      "source": "SITEMAPS",
+      "targetPath": "/sky-learn/personal-finance/what-is-dividend-yield",
+      "id": "fd64fc2ae13065c91001f10f583099e97d40c286"
+    },
+    {
+      "url": "https://hdfcsky.com/sky-learn/share-trading/after-market-order",
+      "source": "SITEMAPS",
+      "targetPath": "/sky-learn/share-trading/after-market-order",
+      "id": "92502e18a6733911c7b3cd9dc7ac47a83f5f76ce"
+    },
+    {
+      "url": "https://hdfcsky.com/sky-learn/share-trading/difference-between-closing-price-and-last-traded-price",
+      "source": "SITEMAPS",
+      "targetPath": "/sky-learn/share-trading/difference-between-closing-price-and-last-traded-price",
+      "id": "ad6352e8bce106e76558263df3763b95223191fb"
+    },
+    {
+      "url": "https://hdfcsky.com/sky-learn/share-trading/efficient-market-hypothesis",
+      "source": "SITEMAPS",
+      "targetPath": "/sky-learn/share-trading/efficient-market-hypothesis",
+      "id": "c95c63613f2f41b143e44283187e4de066ccfa01"
+    },
+    {
+      "url": "https://hdfcsky.com/sky-learn/share-trading/emerging-market-indices-brics-and-beyond",
+      "source": "SITEMAPS",
+      "targetPath": "/sky-learn/share-trading/emerging-market-indices-brics-and-beyond",
+      "id": "1f50234491f07bdc2b8f33cd18cf35217e48dd93"
+    },
+    {
+      "url": "https://hdfcsky.com/sky-learn/share-trading/historical-performances-of-major-indices",
+      "source": "SITEMAPS",
+      "targetPath": "/sky-learn/share-trading/historical-performances-of-major-indices",
+      "id": "a6a00fcf6f2ad32fb3f53db45d0486b7e9848a31"
+    },
+    {
+      "url": "https://hdfcsky.com/sky-learn/share-trading/how-can-nri-invest-in-indian-stock-market",
+      "source": "SITEMAPS",
+      "targetPath": "/sky-learn/share-trading/how-can-nri-invest-in-indian-stock-market",
+      "id": "ac9b8cec2186edd33283196533944e9a30ee8fef"
+    },
+    {
+      "url": "https://hdfcsky.com/sky-learn/share-trading/how-do-i-check-my-kra-kyc-status",
+      "source": "SITEMAPS",
+      "targetPath": "/sky-learn/share-trading/how-do-i-check-my-kra-kyc-status",
+      "id": "51bfd68f3ae21ac8c79cd68330143d6d886f2a63"
+    },
+    {
+      "url": "https://hdfcsky.com/sky-learn/share-trading/how-to-analyse-dividends-for-investing",
+      "source": "SITEMAPS",
+      "targetPath": "/sky-learn/share-trading/how-to-analyse-dividends-for-investing",
+      "id": "933a7768e778ecaca5a0e8ca181884053f9b3d57"
+    },
+    {
+      "url": "https://hdfcsky.com/sky-learn/share-trading/how-to-build-an-emergency-fund",
+      "source": "SITEMAPS",
+      "targetPath": "/sky-learn/share-trading/how-to-build-an-emergency-fund",
+      "id": "22f8cb8b5d525afa7cc349d8ad3864e45008cc8b"
+    },
+    {
+      "url": "https://hdfcsky.com/sky-learn/share-trading/importance-of-sector-analysis-for-stock-market-investors",
+      "source": "SITEMAPS",
+      "targetPath": "/sky-learn/share-trading/importance-of-sector-analysis-for-stock-market-investors",
+      "id": "bf1076665d24716ca40514ca00f549bacd75ded7"
+    },
+    {
+      "url": "https://hdfcsky.com/sky-learn/share-trading/long-and-short-positions-in-trading",
+      "source": "SITEMAPS",
+      "targetPath": "/sky-learn/share-trading/long-and-short-positions-in-trading",
+      "id": "18e15238ef8c68ad00f7694f399fdbb92dcb39a6"
+    },
+    {
+      "url": "https://hdfcsky.com/sky-learn/share-trading/minimum-amount-to-start-trading",
+      "source": "SITEMAPS",
+      "targetPath": "/sky-learn/share-trading/minimum-amount-to-start-trading",
+      "id": "4065ddccd1bdcc32792b9f515e1bf9729d07e794"
+    },
+    {
+      "url": "https://hdfcsky.com/sky-learn/share-trading/order-book",
+      "source": "SITEMAPS",
+      "targetPath": "/sky-learn/share-trading/order-book",
+      "id": "68d9a1d2f236e60211080167fdf826b40cdab67a"
+    },
+    {
+      "url": "https://hdfcsky.com/sky-learn/share-trading/primary-vs-secondary-market",
+      "source": "SITEMAPS",
+      "targetPath": "/sky-learn/share-trading/primary-vs-secondary-market",
+      "id": "51881b4c26dff1d26caad0b2f4e2e2ac296d9989"
+    },
+    {
+      "url": "https://hdfcsky.com/sky-learn/share-trading/risk-vs-reward",
+      "source": "SITEMAPS",
+      "targetPath": "/sky-learn/share-trading/risk-vs-reward",
+      "id": "1c8d1d9055b0eba95dff9e26ff01dd7fb77a076e"
+    },
+    {
+      "url": "https://hdfcsky.com/sky-learn/share-trading/securities-transaction-tax-stt",
+      "source": "SITEMAPS",
+      "targetPath": "/sky-learn/share-trading/securities-transaction-tax-stt",
+      "id": "26adc46862f12ad1de982be67c0605705f7d02b5"
+    },
+    {
+      "url": "https://hdfcsky.com/sky-learn/share-trading/shareholders-equity",
+      "source": "SITEMAPS",
+      "targetPath": "/sky-learn/share-trading/shareholders-equity",
+      "id": "0787a8ad4d17339cbd2cd65e27548e35cd0a0799"
+    },
+    {
+      "url": "https://hdfcsky.com/sky-learn/share-trading/short-selling",
+      "source": "SITEMAPS",
+      "targetPath": "/sky-learn/share-trading/short-selling",
+      "id": "0700b16ffef7ee0f3183fc46b512bad45f82b678"
+    },
+    {
+      "url": "https://hdfcsky.com/sky-learn/share-trading/supply-and-demand-zones",
+      "source": "SITEMAPS",
+      "targetPath": "/sky-learn/share-trading/supply-and-demand-zones",
+      "id": "a808966a6fa43b2520fb1857ee5192a515bedc43"
+    },
+    {
+      "url": "https://hdfcsky.com/sky-learn/share-trading/valuation-of-stocks",
+      "source": "SITEMAPS",
+      "targetPath": "/sky-learn/share-trading/valuation-of-stocks",
+      "id": "80ae25ae93853fabd43d7e270bc478fdba6a4396"
+    },
+    {
+      "url": "https://hdfcsky.com/sky-learn/share-trading/what-do-the-recently-concluded-trump-putin-talks-imply-for-indian-equity-markets",
+      "source": "SITEMAPS",
+      "targetPath": "/sky-learn/share-trading/what-do-the-recently-concluded-trump-putin-talks-imply-for-indian-equity-markets",
+      "id": "d5fb76d3cc45c829a1fb76115b7cc4ed14be5750"
+    },
+    {
+      "url": "https://hdfcsky.com/sky-learn/share-trading/what-happens-when-the-gtt-entry-price-is-breached",
+      "source": "SITEMAPS",
+      "targetPath": "/sky-learn/share-trading/what-happens-when-the-gtt-entry-price-is-breached",
+      "id": "5aee30996b7621d674007a41a86f52693941793b"
+    },
+    {
+      "url": "https://hdfcsky.com/sky-learn/share-trading/what-is-delisting-of-shares",
+      "source": "SITEMAPS",
+      "targetPath": "/sky-learn/share-trading/what-is-delisting-of-shares",
+      "id": "afc6e494c18959dbe11afdf7185071089e903a70"
+    },
+    {
+      "url": "https://hdfcsky.com/sky-learn/share-trading/what-is-goal-based-investing",
+      "source": "SITEMAPS",
+      "targetPath": "/sky-learn/share-trading/what-is-goal-based-investing",
+      "id": "66915224d0cddc0eda162d790a022b775414d4fc"
+    },
+    {
+      "url": "https://hdfcsky.com/sky-learn/trading-strategies/algorithmic-trading-strategy",
+      "source": "SITEMAPS",
+      "targetPath": "/sky-learn/trading-strategies/algorithmic-trading-strategy",
+      "id": "18f7ad9a98fd8ede1644b7412c47603bbfac2ec3"
+    },
+    {
+      "url": "https://hdfcsky.com/sky-learn/trading-strategies/bear-trap-in-trading",
+      "source": "SITEMAPS",
+      "targetPath": "/sky-learn/trading-strategies/bear-trap-in-trading",
+      "id": "0a6a16f05dc28533fc5b0b65d64d0cbe5fb33987"
+    },
+    {
+      "url": "https://hdfcsky.com/sky-learn/trading-strategies/heikin-ashi-candlestick-pattern",
+      "source": "SITEMAPS",
+      "targetPath": "/sky-learn/trading-strategies/heikin-ashi-candlestick-pattern",
+      "id": "95cb3c7339f26630acbb7af92d924f9a24c8117f"
+    },
+    {
+      "url": "https://hdfcsky.com/sky-learn/trading-strategies/long-wick-candlestick-pattern",
+      "source": "SITEMAPS",
+      "targetPath": "/sky-learn/trading-strategies/long-wick-candlestick-pattern",
+      "id": "0d15364d44c1fc8fbd0190a1946d6f68ae48d4f2"
+    },
+    {
+      "url": "https://hdfcsky.com/sky-learn/trading-strategies/straddle-options-strategies",
+      "source": "SITEMAPS",
+      "targetPath": "/sky-learn/trading-strategies/straddle-options-strategies",
+      "id": "35e51acb5b2333e7b1d0bae49465bcae5dc06803"
+    },
+    {
+      "url": "https://hdfcsky.com/sky-learn/trading-strategies/trend-analysis",
+      "source": "SITEMAPS",
+      "targetPath": "/sky-learn/trading-strategies/trend-analysis",
+      "id": "2dc562961497faa0dc8e7d9e14e8afa68f86daa0"
+    },
+    {
+      "url": "https://hdfcsky.com/sky-learn/trading-strategies/what-is-expiry-day-trading",
+      "source": "SITEMAPS",
+      "targetPath": "/sky-learn/trading-strategies/what-is-expiry-day-trading",
+      "id": "c155ad3bbdaebf637b3f3fb486785d65a2e0796b"
+    },
+    {
+      "url": "https://hdfcsky.com/sky-learn/trading-strategies/what-is-hedging",
+      "source": "SITEMAPS",
+      "targetPath": "/sky-learn/trading-strategies/what-is-hedging",
+      "id": "5f7e2d71f4a44bc87e465a9bdbbb9707b05b9afa"
+    },
+    {
+      "url": "https://hdfcsky.com/sky-learn/uncategorized/cpi-inflation-in-china-at-0-1-in-may-as-the-country-struggles-with-weak-demand",
+      "source": "SITEMAPS",
+      "targetPath": "/sky-learn/uncategorized/cpi-inflation-in-china-at-0-1-in-may-as-the-country-struggles-with-weak-demand",
+      "id": "e91a7addd5a9b6ed7aa8c6852941ee79f3e58659"
+    }
+  ],
+  "crawlOptions": {
+    "timeout": 64800000,
+    "inclusionPatterns": [],
+    "exclusionPatterns": [],
+    "limit": 100,
+    "sameDomain": true,
+    "keepHash": false,
+    "strategy": "sitemaps",
+    "logger": {},
+    "strategiesAttempted": [
+      "SITEMAPS"
+    ]
+  },
+  "extractionErrors": [
+    {
+      "url": "https://hdfcsky.com/sitemap.xml",
+      "status": "parseSitemapFromUrl (https://hdfcsky.com/sitemap.xml): Error: Status: 404"
+    }
+  ],
+  "errorCountMessage": "{\"others\":1}",
+  "error": null
+}
