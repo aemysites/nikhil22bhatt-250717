@@ -2,6 +2,7 @@
   "originUrl": "https://hdfcsky.com",
   "aborted": false,
   "lastCrawled": "https://hdfcsky.com/",
+  "target": "/"
   "urls": [
     {
       "url": "https://hdfcsky.com/sky-learn/commodity/what-is-ncdex",
