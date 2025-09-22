@@ -20,8 +20,7 @@
   if (el) {
     el.remove();
   }
-
-  // move left aside content
+  // move left aside content above to simplify page layout
   el = document.querySelector('.commonLayout > .container > div > div > div > div');
   if (el) {
     el.style.flexDirection = 'column';
