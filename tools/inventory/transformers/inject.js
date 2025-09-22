@@ -27,6 +27,6 @@
   }
   el = document.querySelector('.commonLayout > .container > div > div > div > div > div:first-child');
   if (el) {
-    el.style.position = 'unset';
+    el.remove();
   }
 })();
